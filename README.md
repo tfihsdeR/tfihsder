@@ -23,13 +23,13 @@
 
 ###
 
-<p align="center">I'm Erdinç Atay from Turkey<br><br>- 🔭 I’m working as an Experienced Full-Stack Developer<br>- 📚 I'm currently learning AWS Serverless</p>
+<p align="center">I'm Erdinç Atay from Turkey<br><br>- 🔭 I’m working as an Experienced Full-Stack Developer<br>- //📚  I'm currently learning AWS Serverless</p>
 
 ###
 
 <br clear="both">
 
-<h3 align="center">🔥   I am Looking for a Job!</h3>
+// <h3 align="center">🔥   I am Looking for a Job!</h3>
 
 ###
 
