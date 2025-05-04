@@ -23,7 +23,7 @@
 
 ###
 
-<p align="center">I'm Erdinç Atay from Turkey<br><br>- 🔭 I’m working as a Junior Full-Stack Developer<br>- 📚 I'm currently learning AWS Serverless</p>
+<p align="center">I'm Erdinç Atay from Turkey<br><br>- 🔭 I’m working as a Experienced Full-Stack Developer<br>- 📚 I'm currently learning AWS Serverless</p>
 
 ###
 
