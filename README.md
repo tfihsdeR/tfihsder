@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erdinç Atay</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tfihsdeR&show_icons=true&theme=transparent)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tfihsder&label=Profile%20views&color=0e75b6&style=flat" alt="tfihsder" /> </p>
 
